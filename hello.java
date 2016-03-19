@@ -1,8 +1,9 @@
 
 import java.lang.Math;
 import java.awt.Color;
+import javax.swing.JPanel;
 
-public class hello{
+public class hello extends JPanel{
 	private Color color;
 
 	public static void main(String[] args){
